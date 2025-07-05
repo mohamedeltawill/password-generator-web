@@ -5,6 +5,13 @@ This app lets users generate strong passwords with control over length, symbols,
 
 ---
 
+## 📸 Live Demo
+
+🟢 **Try it now:**  
+👉 [Click to Launch the App](https://password-generator-web-wfmyxqvtctvyyn26apnkkq.streamlit.app/)
+
+---
+
 ## 🚀 Features
 
 ✅ Choose password length (6 to 50 characters)  
