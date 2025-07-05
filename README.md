@@ -1,38 +1,21 @@
-# 🔐 Streamlit Password Generator
+# 🔐 Password Generator Web App
 
-A secure, web-based password generator built with Python and Streamlit.
+A secure and customizable password generator built with **Python** and **Streamlit**.  
+This app lets users generate strong passwords with control over length, symbols, numbers, and letter casing.
+
+---
 
 ## 🚀 Features
 
-- Set custom password length
-- Choose to include:
-  - Uppercase Letters
-  - Lowercase Letters
-  - Numbers
-  - Symbols
-- One-click password generation
+✅ Choose password length (6 to 50 characters)  
+✅ Include/exclude uppercase, lowercase, numbers, symbols  
+✅ Built-in randomness using Python's `random` module  
+✅ Clean interface built with Streamlit
 
-## 🛠️ Technologies Used
+---
 
-- Python 3
-- Streamlit
-
-## 🧪 How to Run
+## 🧪 How to Run Locally
 
 ```bash
 pip install streamlit
 streamlit run app.py
-```
-
-## 📦 Project Structure
-
-```
-password-generator-web/
-├── app.py
-├── README.md
-└── requirements.txt
-```
-
-## 📬 Contact
-
-Created by [Mohamed ElTawil](https://github.com/mohamedeltawill)
